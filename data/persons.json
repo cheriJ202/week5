@@ -1,0 +1,37 @@
+[
+{
+  "name": "Tyler Silva",
+  "email": "tsilva@att.net",
+  "phone": "707-495-5566",
+  "birthdate": "09/01/1983",
+  "id": "4"
+}, 
+{
+  "name": "Monet Jimerson",
+  "email": "mjimerson@att.net",
+  "phone": "707-495-5544",
+  "birthdate": "01/01/2000",
+  "id": "5"
+},
+{
+  "name": "Frank Silva",
+  "email": "fsilva@att.net",
+  "phone": "707-894-3787",
+  "birthdate": "08/01/1959",
+  "id": "1"
+},
+{
+  "name": "Dorothy Silva",
+  "email": "dsilva@att.net",
+  "phone": "707-894-3787",
+  "birthdate": "12/01/1960",
+  "id": "2"
+},
+{
+  "name": "Cheri Silva",
+  "email": "csilva@att.net",
+  "phone": "707-894-3787",
+  "birthdate": "09-01-1980",
+  "id": "3"
+}
+]
