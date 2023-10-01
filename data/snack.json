@@ -1,0 +1,31 @@
+[
+{
+  "id": 1,
+  "owner": 3,
+  "snack": "cookies"
+},
+  
+{
+  "id": 2,
+  "owner": 4,
+  "snack": "ice cream"
+},
+
+{
+  "id": 3,
+  "owner": 2,
+  "snack": "fruit"
+},
+
+ {
+  "id": 1,
+  "owner": 1,
+  "snack": "chips"
+}, 
+
+  {
+  "id": 1,
+  "owner": 1,
+  "snack": "peas"
+}
+]
